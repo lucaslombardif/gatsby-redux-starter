@@ -5,7 +5,7 @@
   "author": "Alex Vivero",
   "dependencies": {
     "axios": "^0.19.2",
-    "bootstrap": "^4.3.1",
+    "bootstrap": "^4.4.1",
     "gatsby": "^2.0.0",
     "gatsby-plugin-manifest": "^2.0.2",
     "gatsby-plugin-offline": "^2.0.5",
