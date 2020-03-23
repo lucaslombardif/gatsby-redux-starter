@@ -8,11 +8,11 @@
     "bootstrap": "^4.4.1",
     "gatsby": "^2.0.0",
     "gatsby-plugin-manifest": "^2.0.2",
-    "gatsby-plugin-offline": "^2.0.5",
-    "gatsby-plugin-react-helmet": "^3.2.0",
+    "gatsby-plugin-offline": "^2.0.15",
+    "gatsby-plugin-react-helmet": "^3.1.22",
     "gatsby-plugin-sass": "^2.2.0",
     "lodash": "^4.17.15",
-    "material-icons": "^0.2.3",
+    "material-icons": "^0.3.1",
     "node-sass": "^4.13.1",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
@@ -20,7 +20,7 @@
     "react-dom": "^16.13.1",
     "react-helmet": "^5.2.1",
     "react-redux": "^5.0.7",
-    "redux": "^4.0.0"
+    "redux": "^4.0.5"
   },
   "keywords": [
     "gatsby"
