@@ -6,7 +6,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "bootstrap": "^4.4.1",
-    "gatsby": "^2.23.7",
+    "gatsby": "^2.23.12",
     "gatsby-plugin-manifest": "^2.4.14",
     "gatsby-plugin-offline": "^3.2.11",
     "gatsby-plugin-react-helmet": "^3.3.6",
