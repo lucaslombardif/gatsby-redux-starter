@@ -11,7 +11,7 @@
     "gatsby-plugin-offline": "^3.2.11",
     "gatsby-plugin-react-helmet": "^3.3.6",
     "gatsby-plugin-sass": "^2.3.6",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.17",
     "material-icons": "^0.3.1",
     "node-sass": "^4.14.1",
     "prop-types": "^15.7.2",
