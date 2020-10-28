@@ -8,7 +8,7 @@
     "bootstrap": "^4.5.2",
     "gatsby": "^2.24.65",
     "gatsby-plugin-manifest": "^2.4.32",
-    "gatsby-plugin-offline": "^3.2.23",
+    "gatsby-plugin-offline": "^3.2.38",
     "gatsby-plugin-react-helmet": "^3.3.11",
     "gatsby-plugin-sass": "^2.3.12",
     "lodash": "^4.17.20",
