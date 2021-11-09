@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "Alex Vivero",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.24.0",
     "bootstrap": "^5.0.0",
     "gatsby": "^2.32.13",
     "gatsby-plugin-manifest": "^2.12.0",
