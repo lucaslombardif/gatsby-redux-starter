@@ -13,7 +13,7 @@
     "gatsby-plugin-sass": "^2.8.0",
     "lodash": "^4.17.21",
     "material-icons": "^1.10.6",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "prop-types": "^15.8.1",
     "react": "^16.14.0",
     "react-bootstrap": "^2.1.2",
